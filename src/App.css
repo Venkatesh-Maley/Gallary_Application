@@ -2,7 +2,7 @@
   position: relative; /* Required for the overlay to be positioned correctly */
   display: flex;
   flex-direction: column; /* To stack the containers vertically */
-  background-image: url('./uni.jpg');
+  background-image: url('../src/images/uni.jpg');
   height: 100vh;
   width: 100vw;
   background-size: cover;
